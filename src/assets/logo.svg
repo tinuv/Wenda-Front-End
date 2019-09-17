@@ -1,0 +1,34 @@
+<svg data-v-06c5d478="" version="1.0" xmlns="http://www.w3.org/2000/svg"
+     width="100%" height="100%" viewBox="0 0 340.000000 250.000000" preserveAspectRatio="xMidYMid meet"
+     color-interpolation-filters="sRGB" class="el-tooltip" style="margin: auto;">
+  <rect data-v-06c5d478="" x="0" y="0" width="100%" height="100%" fill="#fff" fill-opacity="1"></rect>
+  <rect data-v-06c5d478="" x="0" y="0" width="100%" height="100%" fill="url(#watermark)" fill-opacity="1"
+        class="watermarklayer"></rect>
+  <g data-v-06c5d478="" fill="#8eb52c" class="icon-text-wrapper icon-svg-group iconsvg"
+     transform="translate(89.4649658203125,95)">
+    <g class="iconsvg-imagesvg" transform="translate(0,0)">
+      <rect fill="#8eb52c" fill-opacity="0" stroke-width="2" x="0" y="0" width="59.80006942034" height="60"
+            class="image-rect"></rect>
+      <svg x="0" y="0" width="59.80006942034" height="60" filtersec="colorsb6367268938" class="image-svg-svg">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 43.071 43.215">
+          <g>
+            <g>
+              <path fill="#522d80" d="M22.637 0v43.213h2.268V0M18.102 0v43.213h2.268V0"></path>
+              <path fill="#8eb52c"
+                    d="M15.748 0H0v1.984h13.641v41.231h2.204V.002M27.162.002v43.213h2.268V1.984h13.641V0"></path>
+            </g>
+          </g>
+        </svg>
+      </svg> <!---->
+    </g>
+    <g transform="translate(66.80006790161133,14.815000534057617)">
+      <g class="tp-name iconsvg-namesvg">
+        <g>
+          <path
+            d="M20.70-25.61L11.52-25.61L11.52 0.45L9.63 0.45L9.63-25.61L0.45-25.61L0.45-27.49L20.70-27.49L20.70-25.61ZM23.85-26.95L25.83-26.95L25.83-29.07L23.85-29.07L23.85-26.95ZM23.85 0.32L25.83 0.32L25.83-20.70L23.85-20.70L23.85 0.32ZM41.40-21.69Q42.66-21.69 44.08-21.08Q45.49-20.47 46.53-19.04Q47.56-17.59 47.56-15.21L47.56-15.21L47.56 0.32L45.63 0.32L45.63-15.21Q45.63-18.04 44.08-18.90Q42.52-19.75 41.40-19.75L41.40-19.75Q38.11-19.75 36.47-18.31Q34.83-16.88 34.06-15.34L34.06-15.34L34.06 0.32L32.13 0.32L32.13-20.70L34.06-20.70L34.06-18.72Q36.85-21.69 41.40-21.69L41.40-21.69ZM69.97-20.84L69.97 0.99L67.95 0.99L67.95-1.84Q65.07 1.30 60.75 1.30L60.75 1.30Q58.50 1.30 57.08 0.32Q55.66-0.67 55.06-2.05Q54.45-3.42 54.40-4.68L54.40-4.68L54.40-20.84L56.47-20.84L56.47-4.68Q56.47-4.14 56.74-3.24Q57.01-2.34 57.98-1.51Q58.95-0.67 60.75-0.67L60.75-0.67Q63.81-0.67 65.47-2.25Q67.14-3.82 67.95-5.44L67.95-5.44L67.95-20.84L69.97-20.84ZM94.72-20.79L86.31 1.13L84.15 1.13L75.73-20.79L77.53-21.46L85.23-1.62L92.88-21.46L94.72-20.79Z"
+            transform="translate(-0.45, 29.07)"></path>
+        </g> <!----> <!----> <!----> <!----> <!----> <!----> <!---->
+      </g> <!---->
+    </g>
+  </g>
+</svg>
