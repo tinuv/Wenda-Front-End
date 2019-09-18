@@ -7,7 +7,7 @@ import Creator from "../views/creator/Creator";
 import QuestionList from "../views/creator/question/QuestionList";
 import People from "../views/people/People";
 import Nav from "../components/Header/Menu/Nav";
-import QuestionDetail from "../views/questiondetail/QuestionDetail";
+import QuestionDetail from "../views/question/QuestionDetail";
 
 Vue.use(Router);
 
